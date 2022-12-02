@@ -1,0 +1,7 @@
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApp2_2\ConsoleApp2_2\bin\Debug\ConsoleApp2_2.exe.config
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApp2_2\ConsoleApp2_2\bin\Debug\ConsoleApp2_2.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApp2_2\ConsoleApp2_2\bin\Debug\ConsoleApp2_2.pdb
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApp2_2\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.csprojAssemblyReference.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApp2_2\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.csproj.CoreCompileInputs.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApp2_2\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApp2_2\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.pdb
